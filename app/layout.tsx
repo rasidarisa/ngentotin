@@ -14,7 +14,7 @@ export const metadata: Metadata = {
         canonical: `/`,
     },
     openGraph: {
-        title: `${SITENAME} - Video Bokep Indo Jepang Barat Viral Terbaru`,
+        title: `${SITENAME} - Video Bokep Indo Viral Terbaru`,
         description: `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pijat.`,
         url: `/`,
         type: `website`,
@@ -45,17 +45,6 @@ export default function RootLayout({
             "url":"https://ngentotin.pages.dev"
             },
             "foundingDate":"2024-08-29"
-        }
-        const jsonLd1 = {
-            "@context": "https://schema.org",
-        "@type": "WebPage",
-        "name": `${SITENAME}`,
-        "url": "https://ngentotin.pages.dev",
-        "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pijat.`,
-        "image": "https://ngentotin.pages.dev/favicon.ico",
-        "potentialAction":{
-            "@type":"ReadAction",
-            "target":"https://ngentotin.pages.dev"}
         }
         const jsonLd2 = {
             "@context": "https://schema.org",
